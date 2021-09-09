@@ -26,8 +26,12 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    # twitter:         <username>
+    linkedin:        liam-bennett
     github:          liam-bennett
+    stackoverflow:   12906192
+    steam:           76561198850838798
+    paypal:          lmbnntt
+    # twitter:         <username>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -36,7 +40,7 @@ author1:
     # youtube:         <string_string_string>
     # vimeo:           <username>
     # vine:            <username>
-    # spotify:         <user>/<number>
+    # spotify:         ttennebmail
     # soundcloud:      <username>
     # lastfm:          <username>
     # instagram:       <username>
@@ -47,22 +51,18 @@ author1:
     # deviantart:      <username>
     # ello:            <username>
     # twitch:          <username>
-    # steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    stackoverflow:   12906192
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        liam-bennett
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
     # stumbleupon:     <username>
-    paypal:          lmbnntt
     # download:        <url>
     # keybase          <username>
 

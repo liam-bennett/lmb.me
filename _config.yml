@@ -51,13 +51,13 @@ author:
     linkedin: liam-bennett
 
 # Add links to the sidebar.
-menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé
-    url:               /resume/
+#menu:
+#  - title:             Blog
+#    url:               /blog/
+#  - title:             Projects
+#    url:               /projects/
+#  - title:             Résumé
+#    url:               /resume/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
