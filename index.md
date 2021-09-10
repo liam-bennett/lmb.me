@@ -4,4 +4,4 @@ title: Liam M. Bennett
 cover: true
 ---
 
-## Liam Bennett - Oak Forest, IL
+Liam Bennett - Oak Forest, IL
