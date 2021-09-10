@@ -1,7 +1,7 @@
 ---
 layout: welcome
-title: Liam Bennett
+title: Liam M. Bennett
 cover: true
 ---
 
-Welcome!
+## Liam Bennett - Oak Forest, IL
