@@ -19,13 +19,6 @@ author:
     venmo:           liambennett
     paypal:          lmbnntt
     cashapp:         liambennett
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
 copyright:             © 2021. All rights reserved.
 permalink:             /blog/:categories/:year-:month-:day-:title/
 paginate:              10
@@ -123,7 +116,6 @@ exclude:
   - Gemfile.lock
 include:
   - .well-known
-  - LICENSE.md
 plugins:
   - jekyll-default-layout
   - jekyll-feed
