@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Liam M. Bennett | Oak Forest, IL
+title: Home
 cover: true
 ---
 
