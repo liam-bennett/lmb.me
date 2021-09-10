@@ -91,7 +91,7 @@ hydejack:
   no_theme_color:      false
   no_breadcrumbs:      false
   use_lsi:             true
-  cookies_banner:      false
+  cookies_banner:      true
   advertise:           false
   hide_dates:          true
   hide_last_modified:  true
@@ -191,3 +191,4 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+google_analytics: G-R22R6YHNPK
