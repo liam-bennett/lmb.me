@@ -1,7 +1,7 @@
 ---
 layout: welcome
-title: Home
+title: Liam M. Bennett
 cover: true
 ---
 
-Connect with Liam Bennett from Oak Forest, IL.
+Liam M. Bennett | Oak Forest, IL
