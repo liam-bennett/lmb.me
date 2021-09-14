@@ -18,6 +18,9 @@ author:
     venmo:           liambennett
     paypal:          lmbnntt
     cashapp:         liambennett
+menu:
+  - title:             Résumé
+    url:               /resume/
 copyright:             © 2021. All rights reserved.
 permalink:             /blog/:categories/:year-:month-:day-:title/
 paginate:              10
