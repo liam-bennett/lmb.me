@@ -4,7 +4,7 @@ title: Liam M. Bennett
 cover: true
 ---
 
-# Connect With Me
+## Connect With Me
 ---
 * [Email](mailto:liam@lmb.me)
 * [LinkedIn](https://www.linkedin.com/in/liam-bennett)
