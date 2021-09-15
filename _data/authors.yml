@@ -1,14 +1,14 @@
 author1:
-  name:              Liam Bennett
+  name:              Liam M. Bennett
   about:             |
-    Hi! My name is Liam.
-
+    Liam M. Bennett from Oak Forest, IL.
   picture:
     path:            https://placehold.it/128x128
     srcset:
       1x:            https://placehold.it/128x128
       2x:            https://placehold.it/256x256
   social:
+    email:           liam@lmb.me
     linkedin:        liam-bennett
     github:          liam-bennett
     stackoverflow:   12906192
