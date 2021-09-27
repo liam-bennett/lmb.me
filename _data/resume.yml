@@ -2,6 +2,7 @@ basics:
   name: "Liam Bennett"
   label: "IT Professional"
   website: "https://lmb.me"
+  email: "liam@lmb.me"
   summary: >
     Liam Bennett from Oak Forest, IL.
   location:
@@ -38,12 +39,42 @@ work:
     position: "IT Assistant"
     website: "https://www.pilsenwellnesscenter.org"
     startDate: "2015-09-01"
-    endDate: "2017-03-01"
+    endDate: "2016-02-01"
 education:
   - institution: "Western Governors University"
     area: "Information Technology"
     studyType: "Bachelor"
-    endDate: "Present"
+    endDate: "2022-04-30"
 languages:
   - language: "English"
     fluency: "Native speaker"
+skills:
+  - name: System Administration
+    level: master
+    keywords: ["Linux", "Windows"]
+  - name: Automation
+    level: intermediate
+    keywords: ["Ansible", "Jenkins"]
+  - name: Programming
+    level: intermediate
+    keywords: ["Python", "Bash", "Powershell"]
+  - name: Virtualization
+    level: intermediate
+    keywords: ["Hyper-V", "VMWare", "KVM", "Docker"]
+  - name: Networking
+    level: intermediate
+    keywords: ["Cisco", "TCP/IP", "switching", "routing", "VPN"]
+  - name: Web Development
+    level: intermediate
+    keywords: ["HTML", "CSS"]
+  - name: Version Control
+    level: intermediate
+    keywords: ["Subversion", "Git"]
+  - name: Database Administration
+    level: intermediate
+    keywords: ["SQL", "MySQL"]
+  - name: Security
+    level: intermediate
+    keywords: ["firewalls", "encryption"]
+  - name: Other
+    keywords: ["ITIL", "Cobbler", "Active Directory", "LDAP", "Atlassian", "Jira", "Confluence", "VoIP", "XFS", "ZFS", "RAID", "JSON", "YAML", "RDP", "DNS", "Anaconda", "LXC", "namespaces", "cgroups", "DHCP", "VLAN", "Kickstart", "Cobbler", "troubleshooting", "hardware", "HPE", "Dell", "Cabling", "fiber optics"]
