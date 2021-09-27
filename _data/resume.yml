@@ -51,19 +51,25 @@ languages:
 skills:
   - name: System Administration
     level: master
-    keywords: ["Linux", "Windows"]
+    keywords: ["Linux", "Windows", "Active Directory", "LDAP", "RDP"]
   - name: Automation
     level: intermediate
-    keywords: ["Ansible", "Jenkins"]
+    keywords: ["Ansible", "Jenkins", "Kickstart", "Cobbler"]
   - name: Programming
     level: intermediate
-    keywords: ["Python", "Bash", "Powershell"]
+    keywords: ["Python", "Bash", "Powershell", "Anaconda", "YAML", "JSON"]
+  - name: System Tuning
+    level: intermediate
+    keywords: ["cgroups", "namespaces", "tuned"]
+  - name: Storage
+    level: intermediate
+    keywords: ["RAID", "XFS", "ZFS", "ext4"]
   - name: Virtualization
     level: intermediate
-    keywords: ["Hyper-V", "VMWare", "KVM", "Docker"]
+    keywords: ["Hyper-V", "VMWare", "KVM", "Docker", "LXC"]
   - name: Networking
     level: intermediate
-    keywords: ["Cisco", "TCP/IP", "switching", "routing", "VPN"]
+    keywords: ["Cisco", "switching", "routing", "TCP/IP", "VPN", "DHCP", "DNS", "VLAN", "VoIP"]
   - name: Web Development
     level: intermediate
     keywords: ["HTML", "CSS"]
@@ -76,5 +82,23 @@ skills:
   - name: Security
     level: intermediate
     keywords: ["firewalls", "encryption"]
+  - name: Hardware
+    level: master
+    keywords: ["troubleshooting", "HPE", "Dell", "Cisco", "structured cabling", "fiber optics"]
   - name: Other
-    keywords: ["ITIL", "Cobbler", "Active Directory", "LDAP", "Atlassian", "Jira", "Confluence", "VoIP", "XFS", "ZFS", "RAID", "JSON", "YAML", "RDP", "DNS", "Anaconda", "LXC", "namespaces", "cgroups", "DHCP", "VLAN", "Kickstart", "Cobbler", "troubleshooting", "hardware", "HPE", "Dell", "Cabling", "fiber optics"]
+    keywords: ["ITIL", "Cobbler", "Atlassian", "Jira", "Confluence"]
+awards:
+  - title: A+
+    awarder: CompTIA
+  - title: Network+
+    awarder: CompTIA
+  - title: Security+
+    awarder: CompTIA
+  - title: Server+
+    awarder: CompTIA
+  - title: Site Development Associate
+    awarder: CIW
+  - title: Cisco Certified Entry Networking Technician (CCENT)
+    awarder: Cisco
+  - title: Linux Essentials
+    awarder: LPI
