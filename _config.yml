@@ -3,10 +3,10 @@ title:                 "Liam M. Bennett"
 description:           "Liam M. Bennett | Oak Forest, IL"
 tagline:               Oak Forest, IL
 keywords:              [oak forest, liam bennett, blog, linux, technology, bennett, liam, linkedin, github, stackoverflow, discord, steam, strava, bitcoin, venmo, projects, contact, email, phone, lmb, illinois, address, mccann, lmbnntt, liam-bennett, chicago, engineer, engineering, mail, palos heights, tinley park, optiver]
-logo:                  /assets/img/logo.svg
+logo:                  /assets/img/logo.png
 author:
   name:                Liam M. Bennett
-  picture: /assets/img/logo.svg
+  picture: /assets/img/logo.png
   social:
     email:           liam@lmb.me
     linkedin:        liam-bennett
